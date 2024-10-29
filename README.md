@@ -1,1 +1,0 @@
-# VeriSync_Coding_Assessment_Aswath_Govindarajan_SASTRA
