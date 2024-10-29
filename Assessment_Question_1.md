@@ -1,6 +1,6 @@
 # VeriSync_Coding_Assessment_Aswath_Govindarajan_SASTRA
 
-## Let me start by establishing the premise and by defining a few very basic keywords, before proceeding with detailed answers for the questions asked in the assessment:
+Let me start by establishing the premise and by defining a few very basic keywords, before proceeding with detailed answers for the questions asked in the assessment:
 
 i\) *Digital Ledger Technology:*  
 - It is a system to digitally keep track
