@@ -1,13 +1,8 @@
 # VeriSync_Coding_Assessment_Aswath_Govindarajan_SASTRA
-## Question 1: Polygon Miden Research
 
-### Section 1: Core Concepts
-
-#### Part (a) - Clearly explain the core concepts of Polygon Miden, including its architecture, consensus mechanism, and key features. 
-
-Ans) Let me
+## Let me
 start by establishing the premise and by defining a few very basic
-keywords, before proceeding with a detailed explanation of Polygon Miden
+keywords, before proceeding with detailed answers for the questions asked in the assessment:
 
 i\) *Digital Ledger Technology:*  
 - It is a system to digitally keep track
@@ -52,7 +47,19 @@ network, in varied domains other than just a Ledger.
 provides Smart Contracts, which are auto-executing code-blocks that run
 when specific parameters are met.
 
-iv\) *Polygon:* 
+_____________________________________________
+
+## Question 1: Polygon Miden Research
+
+### Section 1: Core Concepts
+
+#### Part (a) - Clearly explain the core concepts of Polygon Miden, including its architecture, consensus mechanism, and key features. 
+
+Ans) Let me
+start by giving an introduction to Polygon, before proceeding with a detailed explanation of Polygon Miden
+
+
+i\) *Polygon:* 
 - At its core, Polygon, previously called Matic, is a
 network that functions as an add-on to Ethereum to enhance its
 performance. It can be described as "Ethereum's Internet of Blockchain",
@@ -65,7 +72,7 @@ Polygon aims to prevent these drawbacks, by providing a framework to
 build interconnected and scalable blockchain networks, that execute and
 handle transactions outside of the Main Ethereum Network.
 
-v\) *Features of Polygon:*  
+ii\) *Features of Polygon:*  
 - *Layer 2 Solution:* On top of the base layer
 (Layer 1) that mainly handles consensus mechanisms, transaction
 validation among other things, a "Layer 2" solution is provided by
