@@ -51,7 +51,7 @@ _____________________________________________
 
 ### Section 1: Core Concepts
 
-#### Part (a) - Clearly explain the core concepts of Polygon Miden, including its architecture, consensus mechanism, and key features. 
+#### Question (a) - Clearly explain the core concepts of Polygon Miden, including its architecture, consensus mechanism, and key features. 
 
 Ans) Let me
 start by giving an introduction to Polygon, before proceeding with a detailed explanation of Polygon Miden
